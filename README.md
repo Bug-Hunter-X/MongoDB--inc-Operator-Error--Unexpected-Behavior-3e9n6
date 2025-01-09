@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon error related to the MongoDB $inc operator.  The `bug.js` file shows an example where the $inc operator is used incorrectly, potentially causing unexpected results. The `bugSolution.js` file offers a corrected approach to safely increment the counter value.
